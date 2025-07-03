@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "k7VzguT4frrTtNCLEZ1udSdOX2IDSCkSQbRNNsFgS9Y=",
+  "Source": "KvalikApi",
+  "BasePath": "_content/KvalikApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
